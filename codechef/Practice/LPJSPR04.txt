@@ -1,0 +1,8 @@
+// Problem: LPJSPR04
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/javascript/LPJAS01/problems/LPJSPR04
+// Solved on: 2026-09-26T16:19:14.684Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
