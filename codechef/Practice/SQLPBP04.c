@@ -9,7 +9,7 @@
 └─────────────┴───────┘
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLBP01/problems/SQLPBP04
-// Solved on: 2026-09-24T13:04:42.557Z
+// Solved on: 2026-09-26T16:16:38.176Z
 
 -- your code goes here
 select distinct player_name, score
