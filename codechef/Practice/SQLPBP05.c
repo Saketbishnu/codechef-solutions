@@ -10,8 +10,8 @@
 │ 103      │ Eve      │ Bob      │ Bob    │ 2024-01-17 │ 1500  │
 └──────────┴──────────┴──────────┴────────┴────────────┴───────┘
 // Verdict: Accepted
-// URL: https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLBP01/problems/SQLPBP05?tab=Help
-// Solved on: 2026-10-02T17:28:11.051Z
+// URL: https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLBP01/problems/SQLPBP05?tab=statement
+// Solved on: 2026-10-02T23:46:29.058Z
 
 SELECT
     m.match_id,
